@@ -1,4 +1,4 @@
-package nazenov;
+package nazenov.LeetCodeGen;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package nazenov;
+package nazenov.LeetCodeGen;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
